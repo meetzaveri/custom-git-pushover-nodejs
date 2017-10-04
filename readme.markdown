@@ -213,21 +213,3 @@ Accept the pending request.
 ## dup.reject()
 
 Reject the pending request.
-
-# install
-
-With [npm](https://npmjs.org) do:
-
-```
-npm install pushover
-```
-
-# license
-
-MIT
-
-# kudos
-
-Reading through
-[grack](https://github.com/schacon/grack/blob/master/lib/git_http.rb)
-was super handy.
